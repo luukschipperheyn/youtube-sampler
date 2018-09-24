@@ -1,0 +1,6 @@
+{
+  "HOME": "/",
+  "COUNTER": "/counter",
+  "SAMPLER": "/sampler",
+  "YOUTUBE_SEARCH": "/youtube-search/:slot"
+}
